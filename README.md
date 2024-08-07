@@ -3,8 +3,7 @@ Rental Bike Data Analysis
 This project involves analyzing a dataset containing rental bike details to gain insights into various factors influencing bike rentals. The dataset includes information such as datetime, season, holiday, working day, weather, temperature, humidity, wind speed, and rental counts. The analysis focuses on understanding the relationships between different variables and rental counts.
 
 
-**Objective
-**
+**Objective**
 The objectives of this project are to:
 
     Analyze the relationship between working days and rental counts.
